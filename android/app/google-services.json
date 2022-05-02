@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220671157492",
+    "project_id": "smartbin-a2723",
+    "storage_bucket": "smartbin-a2723.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220671157492:android:acfa8d3e69f3726ea1eaa1",
+        "android_client_info": {
+          "package_name": "com.example.smartbin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220671157492-8070uanua1tfop5sqgfkk8qgq4kn5v1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApyGJvlW-l54B3HR8nIHFYnzzgNNudbKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220671157492-8070uanua1tfop5sqgfkk8qgq4kn5v1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
